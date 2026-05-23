@@ -80,7 +80,7 @@ Secure an internship or entry-level role at companies like **TCS Prime**, **star
 ### **🏦 Banking Ledger System**
 **MERN Application with Machine Learning**
 
-[View Repository](https://github.com/Sushanth226/Banking_application) • [Learn More](#)
+[View Repository](https://github.com/Sushanth226/Banking_application) • [Full Documentation](https://github.com/Sushanth226/Banking_application#readme)
 
 **What I Built:**
 - Complete banking backend with Node.js and Express
@@ -132,7 +132,7 @@ Secure an internship or entry-level role at companies like **TCS Prime**, **star
 ### **🤖 AI Study Assistant** *(In Development)*
 **Learning Platform with AI Integration**
 
-[View Repository](https://github.com/Sushanth226/AI-Study-Assistent)
+[View Repository](https://github.com/Sushanth226/AI-Study-Assistent) • [Full Documentation](https://github.com/Sushanth226/AI-Study-Assistent#readme)
 
 **What I'm Building:**
 - Interactive study platform with React
