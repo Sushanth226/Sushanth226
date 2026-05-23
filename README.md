@@ -16,8 +16,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Sushanth226?style=for-the-badge&color=00D9FF&labelColor=1a1a1a)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushanth226)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surusourya@gmail.com)
 
 </div>
 
@@ -211,67 +210,6 @@ Currently preparing for coding interviews with focus on:
 
 ---
 
-## 🤖 **AI/ML Learning Journey**
-
-### **Current Exploration**
-
-```
-Week 1-2: Understanding LangChain
-  ├─ Document loading and processing
-  ├─ Vector embeddings basics
-  └─ Simple Q&A applications
-
-Week 3-4: OpenAI API Integration
-  ├─ API calls and responses
-  ├─ Prompt engineering fundamentals
-  └─ Building AI features into apps
-
-Week 5+: Advanced Concepts
-  ├─ Retrieval Augmented Generation (RAG)
-  ├─ Custom AI chains
-  └─ Real-world applications
-```
-
-### **Projects in This Area**
-- 🔄 AI Study Assistant (combining MERN + LangChain)
-- 📚 Learning from documentation and tutorials
-- 🎯 Building practical AI-integrated features
-
-**Note:** Just starting this journey - still learning!
-
----
-
-## 💡 **What I'm Focusing On**
-
-### **Short-term (Next 3 Months)**
-- [ ] Complete more MERN projects
-- [ ] Solve 50+ coding problems
-- [ ] Finish AI Study Assistant project
-- [ ] Improve code documentation
-- [ ] Start contributing to open-source
-- [ ] Build a personal portfolio website
-
-### **Long-term (Next Year)**
-- [ ] Secure internship at reputable company
-- [ ] Strong foundation in full-stack development
-- [ ] Comfortable with system design concepts
-- [ ] Good problem-solving skills
-- [ ] Real-world project experience
-
----
-
-## 🎯 **Why Internship Programs Should Consider Me**
-
-✅ **Consistent Learning** - Regular GitHub commits and active project development  
-✅ **Real Projects** - Not just tutorials, but deployed applications  
-✅ **Growth Mindset** - Exploring new technologies (AI/ML)  
-✅ **Good Foundations** - Solid understanding of MERN stack  
-✅ **Problem Solver** - Building solutions to real problems  
-✅ **Team Ready** - Clean code, proper documentation  
-✅ **Humble & Eager** - Willing to learn and improve  
-
----
-
 ## 🤝 **Let's Connect**
 
 <div align="center">
@@ -279,8 +217,7 @@ Week 5+: Advanced Concepts
 ### **Get In Touch**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sushanth226)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surusourya@gmail.com)
 
 **Always open to:**
 - 💬 Discussing code and projects
