@@ -186,29 +186,6 @@ Secure an internship or entry-level role at companies like **TCS Prime**, **star
 
 ---
 
-## 🎓 **Learning & Interview Preparation**
-
-### **Data Structures & Algorithms**
-Currently preparing for coding interviews with focus on:
-
-| Topic | Status | Progress |
-|-------|--------|----------|
-| **Arrays & Strings** | 📚 Learning | 40% |
-| **Linked Lists** | 📚 Learning | 30% |
-| **Trees & Graphs** | 📚 Learning | 20% |
-| **Sorting & Searching** | 📚 Learning | 35% |
-| **Basic Problem Solving** | ✅ Practicing | 50% |
-
-**Platforms:** LeetCode, HackerRank, GeeksforGeeks
-
-**Target:** Strengthen interview readiness and problem-solving skills
-
-### **System Design Basics**
-- Learning about scalability and architecture
-- Understanding databases and APIs
-- Studying real-world application design
-
----
 
 ## 🤝 **Let's Connect**
 
@@ -264,8 +241,8 @@ Currently preparing for coding interviews with focus on:
 
 ---
 
-**Made with ❤️ by Suru Sushanth Sourya**  
-Last Updated: 2025 | Always Learning 🚀
+**Made by Suru Sushanth Sourya**  
+Last Updated: 2026 | Always Learning 🚀
 
 </div>
 
