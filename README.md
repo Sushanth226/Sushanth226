@@ -102,7 +102,6 @@ I'm a **passionate full-stack developer** and **AI/ML enthusiast** dedicated to 
 ### **Other Languages**
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 </div>
 
 ---
@@ -310,7 +309,7 @@ Feel free to connect with me on any platform or drop an email. I'm always excite
 
 <br/>
 
-**Made with ❤️ by Suru Sushanth Sourya**  
+**Made by Suru Sushanth Sourya**  
 *Last Updated: June 2026 • Actively Building & Learning*
 
 ---
